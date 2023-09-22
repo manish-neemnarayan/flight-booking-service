@@ -46,3 +46,10 @@ Lets take a look inside the `src` folder
  ```
  npm run dev
  ```
+
+
+ ## Software Engineering Problems: 
+  ? Concurrency
+  ? Payment done for Multiple times
+  ? Handling 20 Minutes period for payment booking duration
+  ? Booking for the same seat at same time
