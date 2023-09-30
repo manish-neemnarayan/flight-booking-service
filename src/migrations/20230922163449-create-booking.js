@@ -26,7 +26,7 @@ module.exports = {
         values: [BOOKED, CANCELLED, REFUNDED, PENDING, INITIATED],
         defaultValue: INITIATED,
         allowNull: false
-      },
+     },
       noOfSeats: {
         type: Sequelize.INTEGER,
         defaultValue: 1,
